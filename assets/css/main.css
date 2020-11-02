@@ -2481,3 +2481,11 @@ span.icon.featured.ruby {
 .wrapper.style4 p {
 	color: #b6b6b6
 }
+
+#resume-link {
+	color: #F44336;
+}
+
+#resume-link:hover {
+	color: #f7633e;
+}
